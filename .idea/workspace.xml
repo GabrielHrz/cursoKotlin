@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40277554-21dc-4fd5-ad1c-b3d585ee6114" name="Changes" comment="Aprendiendo a usar when en kotlin.">
-      <change afterPath="$PROJECT_DIR$/src/forArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
   "keyToString": {
     "Kotlin.EstructuraCondicionalesKt.executor": "Run",
     "Kotlin.ForArrayKt.executor": "Run",
+    "Kotlin.FuncionesKt.executor": "Run",
     "Kotlin.NullsagetyKt.executor": "Run",
     "Kotlin.OperadoresAritmeticosKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
@@ -57,7 +58,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ForArrayKt">
+  <component name="RunManager" selected="Kotlin.FuncionesKt">
     <configuration name="EstructuraCondicionalesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstructuraCondicionalesKt" />
       <module name="cursoKotlin" />
@@ -72,8 +73,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FuncionesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FuncionesKt" />
+      <module name="cursoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FuncionesKt" />
         <item itemvalue="Kotlin.ForArrayKt" />
         <item itemvalue="Kotlin.EstructuraCondicionalesKt" />
       </list>
@@ -99,6 +108,7 @@
       <workItem from="1719712254716" duration="2048000" />
       <workItem from="1719747779505" duration="4026000" />
       <workItem from="1719873500875" duration="1929000" />
+      <workItem from="1719923040542" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de estudios en kotlin, variables e constantes.">
       <option name="closed" value="true" />
