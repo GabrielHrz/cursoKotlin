@@ -1,3 +1,5 @@
+package kotlinBasico
+
 fun main(args: Array<String>) {
     var nombre: String? = null
     var apellido: String? = null

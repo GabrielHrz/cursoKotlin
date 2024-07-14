@@ -5,8 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40277554-21dc-4fd5-ad1c-b3d585ee6114" name="Changes" comment="Aprendiendo a usar when en kotlin.">
-      <change afterPath="$PROJECT_DIR$/src/funciones.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mylibrary/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mylibrary/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mylibrary/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mylibrary/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mylibrary/src/androidTest/java/com/example/mylibrary/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mylibrary/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mylibrary/src/test/java/com/example/mylibrary/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/src/Classes/ClasesRecursos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/src/androidTest/java/com/example/recursos/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursos/src/test/java/com/example/recursos/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/ClasesEobjetos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/ClassesConcretasEAbastractas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/CompanionObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Constructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herencia.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interfaces.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/ModificadorDeAccesoInternal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Sobrecarga.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/modificadorDeAcceso.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinBasico/funcionesEnLinea.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlinBasico/funcionesParametrosNombradosValorPadron.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructuraCondicionales.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinBasico/estructuraCondicionales.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinBasico/forArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/funciones.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinBasico/funciones.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nullsafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinBasico/nullsafety.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresAritmeticos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinBasico/operadoresAritmeticos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinBasico/variables.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Script" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -29,6 +62,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GabrielHrz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GabrielHrz/cursoKotlin.git&quot;,
+    &quot;accountId&quot;: &quot;9b7fcffc-5d51-4626-8426-1cc1388d64cd&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -40,11 +85,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ClasesEobjetosKt.executor": "Run",
+    "Kotlin.ClassesConcretasEAbastractasKt.executor": "Run",
+    "Kotlin.CompanionObjectKt.executor": "Run",
+    "Kotlin.ConstructorKt.executor": "Run",
     "Kotlin.EstructuraCondicionalesKt.executor": "Run",
     "Kotlin.ForArrayKt.executor": "Run",
+    "Kotlin.FuncionesEnLineaKt.executor": "Run",
     "Kotlin.FuncionesKt.executor": "Run",
+    "Kotlin.FuncionesParametrosNombradosValorPadronKt.executor": "Run",
+    "Kotlin.HerenciaKt.executor": "Run",
+    "Kotlin.InterfacesKt.executor": "Run",
+    "Kotlin.ModificadorDeAccesoKt.executor": "Run",
     "Kotlin.NullsagetyKt.executor": "Run",
     "Kotlin.OperadoresAritmeticosKt.executor": "Run",
+    "Kotlin.SobrecargaKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -55,26 +110,49 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FuncionesKt">
-    <configuration name="EstructuraCondicionalesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstructuraCondicionalesKt" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\herna\Documents\cursoKotlin\src\kotlinBasico" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.CompanionObjectKt">
+    <configuration name="ClassesConcretasEAbastractasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.ClassesConcretasEAbastractasKt" />
       <module name="cursoKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForArrayKt" />
+    <configuration name="CompanionObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.CompanionObjectKt" />
       <module name="cursoKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FuncionesKt" />
+    <configuration name="HerenciaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.HerenciaKt" />
+      <module name="cursoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.InterfacesKt" />
+      <module name="cursoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModificadorDeAccesoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.ModificadorDeAccesoKt" />
       <module name="cursoKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,17 +160,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FuncionesKt" />
-        <item itemvalue="Kotlin.ForArrayKt" />
-        <item itemvalue="Kotlin.EstructuraCondicionalesKt" />
+        <item itemvalue="Kotlin.CompanionObjectKt" />
+        <item itemvalue="Kotlin.InterfacesKt" />
+        <item itemvalue="Kotlin.ModificadorDeAccesoKt" />
+        <item itemvalue="Kotlin.ClassesConcretasEAbastractasKt" />
+        <item itemvalue="Kotlin.HerenciaKt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -109,6 +189,12 @@
       <workItem from="1719747779505" duration="4026000" />
       <workItem from="1719873500875" duration="1929000" />
       <workItem from="1719923040542" duration="747000" />
+      <workItem from="1720731481588" duration="8596000" />
+      <workItem from="1720793742923" duration="3866000" />
+      <workItem from="1720830084671" duration="603000" />
+      <workItem from="1720885394435" duration="3585000" />
+      <workItem from="1720896645431" duration="5420000" />
+      <workItem from="1720986576541" duration="6315000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de estudios en kotlin, variables e constantes.">
       <option name="closed" value="true" />

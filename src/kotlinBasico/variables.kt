@@ -1,4 +1,4 @@
-
+package kotlinBasico
 //Creando una constante global que funciona en tiempo de compilacion
 const val curso = "Curso de kotlin"
 

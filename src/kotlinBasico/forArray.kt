@@ -1,3 +1,5 @@
+package kotlinBasico
+
 fun main(){
 
     val postagem = arrayOf("Viagem para a praia","Levei meu cachorro no veterinario", "Trilha com amigos")
